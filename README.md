@@ -56,7 +56,8 @@
 
 ### CMS UI Screenshot
 
-![CMS UI](path_to_image)
+![image](https://github.com/user-attachments/assets/652297d4-e239-4f6e-a782-7b34810d9d70)
+
 
 ### Instructions
 1. Clone the project repository.
