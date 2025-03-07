@@ -4,7 +4,7 @@
 ## TASK DETAILS
 
 ### PHASE 1
-- Product CRUD operations (Create, Read, Update, Delete) with multiple image uploads.
+- Product CRUD operations (Create, Read) with multiple image uploads.
 - Store image paths as **comma-separated text** in the product table.
 - API Endpoint to list all products with paginated response.
 - Products images are displayed as **array format** in the response.
